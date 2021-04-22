@@ -59,8 +59,8 @@ $ npm run cy:run:mobile
 
 ```
 
-### Relatório de testes com mochawesome
-[gh-pages](https://alexandre-nunes.github.io/desafio-bootcamp/)
+### Relatório de testes no Dashboard
+Acesse o relatório dos testes aqui 👉[Dashboard](https://dashboard.cypress.io/projects/gbmyyi/runs/3/specs)
 
  ## Estrutura de testes :white_check_mark:
 
