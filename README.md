@@ -14,7 +14,7 @@
 
 <p align="center">
   <kbd>
-    <img width="1050" style="border-radius: 5px" height="550" src="https://github.com/Alexandre-Nunes/desafio-bootcamp/blob/master/gh-images/video-unscreen.gif" alt="Intro">
+    <img width="1050" style="border-radius: 5px" height="550" src="https://github.com/Alexandre-Nunes/Proffy-Agilizei/blob/main/gh-images/video.gif" alt="Intro">
   </kbd>
 </p>
 
