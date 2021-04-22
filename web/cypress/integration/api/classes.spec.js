@@ -26,13 +26,14 @@ context('Classes endpoint', () => {
         }).then((response) => {
             console.log(response)
             expect(response.status).to.eq(201)
-            expect(response.duration).lt(30)
+            expect(response.duration).lt(500)
 
 
             expect(response.headers)
             .to.have.property('content-type')
             .an('string')
             .equal('application/json; charset=utf-8')
+
         })
     });
 });

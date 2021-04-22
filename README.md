@@ -6,7 +6,7 @@
 
 <p align="center">
   <kbd>
-    <img width="900" style="border-radius: 5px" height="250" src="https://github.com/Alexandre-Nunes/desafio-bootcamp/blob/master/gh-images/CapaAlexandre.jpg" alt="Intro">
+    <img width="900" style="border-radius: 5px" height="200" src="https://github.com/Alexandre-Nunes/desafio-bootcamp/blob/master/gh-images/CapaDesafio-03.jpg" alt="Intro">
   </kbd>
 </p>
 
