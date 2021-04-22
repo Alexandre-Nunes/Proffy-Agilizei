@@ -34,7 +34,7 @@
     "cy:run:mobile": "npx cypress run --config viewportWidth=400",
     "test:api": "npx cypress run --spec 'cypress/integration/api/**'",
     "test:ui": "npx cypress run --spec 'cypress/integration/ui/**'",
-    "test:components": "npx cypress run --spec 'cypress/component/**'"
+    "test:components": "npx cypress run --spec 'cypress/component/cadastro/**'"
   },
   "eslintConfig": {
     "extends": "react-app"
